@@ -20,7 +20,7 @@ function gradeCalculator(grade){
 
 }
 
-console.log(gradeCalculator(55));
+console.log(gradeCalculator(80));
 
 // ==============End of the grade calculator code================
 
@@ -127,6 +127,6 @@ console.log('Gross salary:', gross)
 
 
 
-        console.log(salCalc(5000, 2500));
+console.log(salCalc(5000, 2500));
 
 // ==============End of the salary calculator code================
